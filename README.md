@@ -14,9 +14,9 @@
 <p>E para iniciar o projeto basta rodar no terminal o comando 'npm start'</p>
 Comandos para instalar o e_bank:
 ```
-
+```
 git clone 
 npm i
 npm start
-
+```
 ```
