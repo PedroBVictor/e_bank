@@ -12,6 +12,7 @@
 <p>Primeiro clone o repo do projeto em sua maquina com o comando 'git clone' seguido do link do repositorio</p>
 <p>Apos isso, instale as dependencias de desenvolvimento com 'npm i'</p>
 <p>E para iniciar o projeto basta rodar no terminal o comando 'npm start'</p>
+Comandos para instalar o e_bank:
 ```
 git clone 
 npm i
